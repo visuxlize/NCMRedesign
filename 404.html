@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta http-equiv="refresh" content="0; url=/NCMRedesign/" />
+    <link rel="canonical" href="/NCMRedesign/" />
+    <script>
+      (function() {
+        var base = '/NCMRedesign/';
+        // If there is a path after the repo name, preserve it as hash for SPA
+        var path = location.pathname.replace(base, '');
+        var target = base + (path ? '#/' + path.replace(/^\/?/, '') : '');
+        if (location.search) target += (path ? '&' : '?') + location.search.slice(1);
+        location.replace(target);
+      })();
+    </script>
+  </head>
+  <body>Redirecting…</body>
+  </html>
+
+
