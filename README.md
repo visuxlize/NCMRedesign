@@ -116,7 +116,7 @@ All information needed to make an informed decision about New Castle Metal's ser
 
 ## 🛠️ Technical Implementation
 
-- **Modern Web Standards:** Built with current HTML5, CSS3, and JavaScript best practices
+- **Modern Web Standards:** Built with current HTML5, CSS3, and JavaScript, Typescript best practices
 - **Performance Optimized:** Minimized load times through optimized images and efficient code
 - **SEO Friendly:** Structured markup and content organization optimized for search engines
 - **Accessibility Compliant:** Designed to be usable by individuals with varying abilities
